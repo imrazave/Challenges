@@ -1,0 +1,14 @@
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Week 1 Thursday Challenge 1.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Week 1 Thursday Challenge 1.pdb
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\obj\Debug\Week 1 Thursday Challenge 1.csprojAssemblyReference.cache
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\obj\Debug\Week 1 Thursday Challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\obj\Debug\Week 1 Thursday Challenge 1.csproj.CopyComplete
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\obj\Debug\Week 1 Thursday Challenge 1.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 1 Thursday Challenge 1\obj\Debug\Week 1 Thursday Challenge 1.pdb
