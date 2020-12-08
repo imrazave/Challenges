@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 2 Challenges", "Week 2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 2 Challenge", "Week 2 Challenge\Week 2 Challenge.csproj", "{4CD98FD6-9EC4-4C5A-86F9-BEAE621DD072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 4 Challenges", "Week 4 Challenges\Week 4 Challenges.csproj", "{576AC808-E1B3-42C7-B9D2-41F9A50305B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 4 Challenges Console", "Week 4 Challenges Console\Week 4 Challenges Console.csproj", "{A8C98C0D-4058-4C14-B74B-5014391664B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4CD98FD6-9EC4-4C5A-86F9-BEAE621DD072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD98FD6-9EC4-4C5A-86F9-BEAE621DD072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD98FD6-9EC4-4C5A-86F9-BEAE621DD072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576AC808-E1B3-42C7-B9D2-41F9A50305B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576AC808-E1B3-42C7-B9D2-41F9A50305B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576AC808-E1B3-42C7-B9D2-41F9A50305B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576AC808-E1B3-42C7-B9D2-41F9A50305B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C98C0D-4058-4C14-B74B-5014391664B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C98C0D-4058-4C14-B74B-5014391664B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C98C0D-4058-4C14-B74B-5014391664B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C98C0D-4058-4C14-B74B-5014391664B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

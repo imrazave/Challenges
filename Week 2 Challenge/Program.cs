@@ -11,7 +11,7 @@ namespace Week_2_Challenge
         static void Main(string[] args)
         {
             Greeter Imran = new Greeter();
-            Imran.Jello("Dave");
+            Imran.GreetUser("Dave");
 
             string time = Imran.Greeting();
             Console.WriteLine(time);
@@ -24,11 +24,9 @@ namespace Week_2_Challenge
     }
     public class Greeter
     {
-        public string Jello(string name)
+        public void GreetUser(string name)
         {
-            string hello = "Hello " + name;
-            Console.WriteLine(hello);
-            return name;
+            Console.WriteLine("Hello" + name);
         }
 
         public string Gbye(string name)

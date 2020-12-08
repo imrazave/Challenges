@@ -1,0 +1,7 @@
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\bin\Debug\Week 4 Challenges Console.exe.config
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\bin\Debug\Week 4 Challenges Console.exe
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\bin\Debug\Week 4 Challenges Console.pdb
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\obj\Debug\Week 4 Challenges Console.csprojAssemblyReference.cache
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\obj\Debug\Week 4 Challenges Console.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\obj\Debug\Week 4 Challenges Console.exe
+C:\Users\farid\Desktop\ElevenFiftyProjects\Challenges\Week 4 Challenges Console\obj\Debug\Week 4 Challenges Console.pdb
